@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Josue+Kouassi&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Data+Scientist+%7C+ML+%26+AI+Engineer&descSize=20&descAlignY=57&descColor=74C0FC" width="100%" />
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=800&color=74C0FC&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+%7C+Deep+Learning+%7C+Agentic+AI.;Building+production+ML+systems+that+drive+real+impact.;MCP+%7C+Agentic+Workflows+%7C+MLOps+%7C+AWS.;From+raw+data+to+deployed+intelligence+%E2%80%94+end+to+end." alt="Animated tagline" />
@@ -68,8 +66,12 @@ Currently at **Djoli Africa**, where I own the anti-churn engine, supply chain d
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-003E6C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NeuralProphet-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gradient_Boosting-1A6B3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Time_Series-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clustering-0277BD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Anomaly_Detection-B71C1C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LSTM_%2F_RNN-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Forecasting-00695C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Transformers_%2F_HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CNN_%2F_Mask_R--CNN-E74C3C?style=for-the-badge" />
@@ -129,18 +131,18 @@ Currently at **Djoli Africa**, where I own the anti-churn engine, supply chain d
 
 **Customer Retention Engine** &nbsp;·&nbsp; Djoli Africa
 
-Automated weekly anti-churn classifier deployed on AWS. XGBoost + SMOTE pipeline delivering actionable alerts to CSM teams, with measurable improvement in Customer Lifetime Value.
+Automated weekly anti-churn classifier deployed on AWS. Gradient Boosting + SMOTE pipeline delivering actionable alerts to CSM teams, with measurable improvement in Customer Lifetime Value.
 
-`Python` `XGBoost` `FastAPI` `AWS Lambda` `EventBridge` `CloudWatch`
+`Python` `Gradient Boosting` `FastAPI` `AWS Lambda` `EventBridge` `CloudWatch`
 
 </td>
 <td width="50%" valign="top">
 
 **Supply Chain Intelligence** &nbsp;·&nbsp; Djoli Africa
 
-Hybrid Neural Prophet + XGBoost demand forecasting system — full CI/CD pipeline via GitHub Actions, deployed with Docker on AWS EC2. Reduced perishable product loss by **15%+**.
+Hybrid Time Series + Gradient Boosting demand forecasting system — full CI/CD pipeline via GitHub Actions, deployed with Docker on AWS EC2. Reduced perishable product loss by **15%+**.
 
-`NeuralProphet` `XGBoost` `MLflow` `Docker` `AWS EC2` `SageMaker`
+`Time Series` `Gradient Boosting` `MLflow` `Docker` `AWS EC2` `SageMaker`
 
 </td>
 </tr>
@@ -158,9 +160,9 @@ Galaxy Schema Data Warehouse, CDC with Debezium/Kafka, ETL orchestration via Air
 
 **Geospatial CO2 Forecasting** &nbsp;·&nbsp; Cosmolab Hub
 
-Hybrid LSTM + XGBoost climate surveillance system trained on Copernicus satellite data. Predictions served via FastAPI for researchers and public decision-makers.
+Hybrid LSTM + Gradient Boosting climate surveillance system trained on Copernicus satellite data. Predictions served via FastAPI for researchers and public decision-makers.
 
-`LSTM` `XGBoost` `FastAPI` `Docker` `Copernicus Data`
+`LSTM` `Gradient Boosting` `FastAPI` `Docker` `Copernicus Data`
 
 </td>
 </tr>
@@ -172,12 +174,37 @@ Hybrid LSTM + XGBoost climate surveillance system trained on Copernicus satellit
 
 ## Education
 
-| Degree | Institution | Period |
-|--------|-------------|--------|
-| M.Sc. Big Data Analytics (Bac+5) | Université Virtuelle de Côte d'Ivoire | 2024 – 2026 |
-| Professional Certification — Data / AI | Epitech, Ivory Coast | 2024 |
-| IBM Professional Data Science Certification | IBM / Coursera | 2024 |
-| B.Sc. Computer Science — Database Track | Université Virtuelle de Côte d'Ivoire | 2021 – 2024 |
+<table align="center">
+  <thead>
+    <tr>
+      <th>Degree</th>
+      <th>Institution</th>
+      <th>Period</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>M.Sc. Big Data Analytics (Bac+5)</td>
+      <td>Université Virtuelle de Côte d'Ivoire</td>
+      <td>2024 – 2026</td>
+    </tr>
+    <tr>
+      <td>Professional Certification — Data / AI</td>
+      <td>Epitech, Ivory Coast</td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td>IBM Professional Data Science Certification</td>
+      <td>IBM / Coursera</td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td>B.Sc. Computer Science — Database Track</td>
+      <td>Université Virtuelle de Côte d'Ivoire</td>
+      <td>2021 – 2024</td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
