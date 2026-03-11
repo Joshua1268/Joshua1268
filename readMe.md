@@ -53,77 +53,68 @@ Currently at **Djoli Africa**, where I own the anti-churn engine, supply chain d
 
 ## Tech Stack
 
-**Languages & APIs**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,mongodb" height="55" />
+<h4 align="center">Languages &amp; APIs</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,mongodb" height="65" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/NoSQL-47A248?style=flat-square" />
+<h4 align="center">Machine Learning &amp; Deep Learning</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" height="65" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-003E6C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NeuralProphet-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transformers_%2F_HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CNN_%2F_Mask_R--CNN-E74C3C?style=for-the-badge" />
 </p>
 
-**Machine Learning & Deep Learning**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" height="55" />
+<h4 align="center">MLOps &amp; Cloud</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws" height="65" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debezium-C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-6E40C9?style=for-the-badge" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-003E6C?style=flat-square" />
-  <img src="https://img.shields.io/badge/NeuralProphet-5C2D91?style=flat-square" />
-  <img src="https://img.shields.io/badge/Transformers_%2F_HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/RAG-009688?style=flat-square" />
-  <img src="https://img.shields.io/badge/CNN_%C2%B7_Mask_R--CNN-E74C3C?style=flat-square" />
+<h4 align="center">Agentic AI &amp; Automation</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-7B2FBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-0B5394?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude_API-D4A017?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-**MLOps & Cloud**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws" height="55" />
+<h4 align="center">Data Engineering</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL_Pipelines-4A90D9?style=for-the-badge" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debezium-C00?style=flat-square" />
-  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-6E40C9?style=flat-square" />
-</p>
-
-**Agentic AI & Automation**
-
-<p>
-  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-7B2FBE?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-0B5394?style=flat-square" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic_Workflows-2C3E50?style=flat-square" />
-  <img src="https://img.shields.io/badge/Claude_API-D4A017?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-</p>
-
-**Data Engineering**
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETL_Pipelines-4A90D9?style=flat-square" />
-</p>
-
-**Visualization**
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square" />
-  <img src="https://img.shields.io/badge/Retool-3D3D3D?style=flat-square" />
+<h4 align="center">Visualization</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Retool-3D3D3D?style=for-the-badge" />
 </p>
 
 <br/>
