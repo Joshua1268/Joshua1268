@@ -34,21 +34,6 @@ Currently at **Djoli Africa**, where I own the anti-churn engine, supply chain d
 
 ---
 
-## Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joshua1268&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=370" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Joshua1268&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joshua1268&layout=compact&theme=github_dark&hide_border=true&card_width=500" />
-</p>
-
-<br/>
-
----
-
 ## Tech Stack
 
 <h4 align="center">Languages &amp; APIs</h4>
