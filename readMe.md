@@ -52,11 +52,9 @@ Currently at **Djoli Africa**, where I own the anti-churn engine, supply chain d
 <p align="center">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradient_Boosting-1A6B3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Time_Series-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Time_Series_Forecasting-5C2D91?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Clustering-0277BD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Anomaly_Detection-B71C1C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LSTM_%2F_RNN-6A1B9A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Forecasting-00695C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Transformers_%2F_HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CNN_%2F_Mask_R--CNN-E74C3C?style=for-the-badge" />
@@ -93,6 +91,7 @@ Currently at **Djoli Africa**, where I own the anti-churn engine, supply chain d
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
   <img src="https://img.shields.io/badge/ETL_Pipelines-4A90D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </p>
 
 <h4 align="center">Visualization</h4>
