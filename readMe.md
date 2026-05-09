@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=800&color=74C0FC&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+%7C+Deep+Learning+%7C+Agentic+AI.;Building+production+ML+systems+that+drive+real+impact.;MCP+%7C+Agentic+Workflows+%7C+MLOps+%7C+AWS.;From+raw+data+to+deployed+intelligence+%E2%80%94+end+to+end." alt="Animated tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=800&color=74C0FC&center=true&vCenter=true&width=600&lines=%7C+ML+%7C+Deep+Learning+%7C+Agentic+AI.;Building+production+ML+systems+that+drive+real+impact.;MCP+%7C+Agentic+Workflows+%7C+MLOps+%7C+AWS.;From+raw+data+to+deployed+intelligence+%E2%80%94+end+to+end." alt="Animated tagline" />
 
 <br/>
 
