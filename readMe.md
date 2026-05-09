@@ -16,7 +16,7 @@
 
 ## Overview
 
-**Data Scientist · ML & Deep Learning Engineer · AI Automation Builder** — based in Abidjan, Côte d'Ivoire. I design and ship production-grade machine learning systems end-to-end, from raw data pipelines to monitored inference endpoints. I also build **agentic AI systems** — connecting LLMs to real business tools via **MCP (Model Context Protocol)** and designing automation workflows that run without human intervention.
+**ML & AI Engineer · AI Automation Builder** — based in Abidjan, Côte d'Ivoire. I design and ship production-grade machine learning systems end-to-end, from raw data pipelines to monitored inference endpoints. I also build **agentic AI systems** — connecting LLMs to real business tools via **MCP (Model Context Protocol)** and designing automation workflows that run without human intervention.
 
 Currently at **Djoli Africa**, where I own the anti-churn engine, supply chain demand forecasting, and the real-time data infrastructure that feeds every model in production. On the agentic side, I architect agent pipelines and automations that bridge AI capabilities and operational processes. Most of what I build lives on **AWS**, runs in **Docker**, is orchestrated by **Airflow**, and is versioned with **MLflow**.
 
